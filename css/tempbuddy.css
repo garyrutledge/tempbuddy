@@ -1,0 +1,258 @@
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: #3581be;
+    font-size: 20px;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    background-color: #0a418f;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: #0a418f;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #0a418f;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #0a418f;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    background-color: #0a418f;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.nav-brand {
+    padding-left: 50px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+
+}
+
+.navbar-nav>li>a {
+    line-height: 50px;
+}
+
+.dropdown-menu>li>a {
+    padding: 24px 20px;
+    color: #ffffff;
+    background-color: #3581BE;
+}
+
+.dropdown-menu {
+    background-color: #3581BE;
+}
+
+.open>.dropdown-menu {
+    display: block;
+    opacity: 0.8;
+}
+
+section#landing {
+    text-align: center;
+    background-color: #231e3f;
+}
+
+
+.intro-text {
+    padding-top: 300px;
+    padding-bottom: 200px;
+    position: relative;
+    z-index: 2;
+}
+
+.video-wrapper {
+    position: absolute;
+    overflow: hidden;
+    height: 900px;
+    width: 100%;
+    left: 0;
+    z-index: 1;
+}
+
+
+header .intro-text .intro-lead-in {
+    margin-bottom: 90px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 41px;
+    line-height: 60px;
+}
+
+.btn-xl {
+    padding: 20px 115px;                                          x
+    border-radius: 20px;
+    font-size: 33px;
+    color: #fff;
+    background-color: #41b688;
+}
+
+.button2 {
+    padding: 20px 60px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #6D6D71;
+}
+
+.btn-md {
+    padding: 20px 60px;
+    font-size: 20px;
+    background-color: #e0e0e0;
+}
+
+.bg-violet {
+    background-color: #231e3f;
+}
+
+.bg-pink {
+    background-color: #da2888;
+}
+.bg-light_pink {
+    background-color: #D74F9C;
+}
+
+.bg-light_blue {
+    background-color: #c8e6ef;
+}
+.bg-light_grey {
+    background-color: #5C5D5B;
+}
+.bg-green {
+    background-color: #33B789;
+}
+
+.bg-mocha {
+    background-color: #E6DED7;
+}
+
+.demo_button {
+    padding: 30px;
+
+}
+
+.demo_button h1 {
+    padding-top: 10px;
+
+}
+
+section#testimonial_one {
+    background-image: url(../images/testimonials/office.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 200px;
+}
+
+section#testimonial_two {
+    background-image: url(../images/testimonials/hospital.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    padding: 200px;
+}
+section#testimonial_three {
+    background-image: url(../images/testimonials/warehouse.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 200px;
+}
+section#globe {
+    background-color: #000000;
+    background-image: url(../images/other_images/world.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 200px;
+}
+
+section#page_three {
+    padding: 150px;
+}
+
+section#page_six {
+    padding: 90px;
+}
+section#page_six img{
+    padding-bottom: 20px;
+}
+
+.type_c {
+    padding: 20px;
+}
+.type_c h2{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.type_c h3{
+    pading-top: 20px;
+    padding-bottom: 10px;
+}
+
+.type_b {
+    padding: 90px;
+}
+.type_b a{
+    padding: 20px;
+}
+
+.type_b h3{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+section#careers {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(../images/other_images/team.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.wide {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 9px;
+    background-color: #38B688;
+    border-radius: 25px;
+    position: relative;
+}
+
+.overlay-btns {
+    top: 17%;
+    left: 17%;
+    position: absolute;}
+
+.overlay-btns_2 {
+    top: 27%;
+    left: 17%;
+    position: absolute;}
+
+.long {
+    height: 700px;
+}
+
+.padded {
+    padding: 60px;
+}

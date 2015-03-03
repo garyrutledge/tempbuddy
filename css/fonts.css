@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'FreigSanProMed';
+    src: url('../fonts/FreigSanProMed.otf');
+}
+
+@font-face {
+    font-family: 'FreigSanProBook';
+    src: url('../fonts/FreigSanProBook.otf');
+}
+
+@font-face {
+    font-family: 'FreigSanProSem';
+    src: url('../fonts/FreigSanProSem.otf');
+}
+
+h1.white {
+    font-family: 'FreigSanProMed', Fallback, sans-serif;
+    font-size: 41pt;
+    color: #ffffff;
+}
+
+h1.green {
+    font-family: 'FreigSanProMed', Fallback, sans-serif;
+    font-size: 41pt;
+    color: #41b688;
+}
+
+h2.white {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 33pt;
+    color: #ffffff;
+}
+
+h2.blue {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 33pt;
+    color: #3581be;
+}
+
+h2.green {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 33pt;
+    color: #41b688;
+}
+h2.grey {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 33pt;
+    color: #6d6d71;
+}
+
+h3.white {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 28pt;
+    color: #ffffff;
+}
+
+h3.grey {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 28pt;
+    color: #6d6d71;
+}
+h3.black {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 28pt;
+    color: #414041;
+}
+
+h3.green {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 28pt;
+    color: #41b688;
+}
+
+h4.black {
+    font-family: 'FreigSanProSem', Fallback, sans-serif;
+    font-size: 17pt;
+    color: #414041;
+}
+
+h4.white {
+    font-family: 'FreigSanProSem', Fallback, sans-serif;
+    font-size: 17pt;
+    color: #ffffff;
+}
+
+h4.pink {
+    font-family: 'FreigSanProSem', Fallback, sans-serif;
+    font-size: 17pt;
+    color: #d8509b;
+}
+
+p.white {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 17pt;
+    color: #ffffff;
+}
+
+p.black{
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 17pt;
+    color: #414041
+}
+
+p.pink {
+    font-family: 'FreigSanProBook', Fallback, sans-serif;
+    font-size: 17pt;
+    color: #d8509b;
+
+}
